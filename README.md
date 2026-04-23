@@ -1,4 +1,4 @@
-# 👨‍✈️ Jorge Ruiz
+# Jorge Ruiz
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000\&size=25\&center=true\&vCenter=true\&width=800\&lines=DAW+Student+%7C+Future+Full+Stack+Developer;DCS+Squadron+Leader;Passionate+about+Military+Aviation;Building+Real+Systems+and+Projects)
 
