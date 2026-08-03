@@ -25,7 +25,6 @@ Soy desarrollador web en formación con un enfoque claro: construir sistemas com
 | 🌐 Web del escuadrón | Sitio completo con Bootstrap + CSS propio | 🟢 En producción |
 | 🤖 Bot Bandit | Discord bot en Node.js/discord.js: registro de pilotos, gestión de misiones, monitorización de estado del servidor DCS e integración de killfeed | 🟡 En desarrollo activo |
 | 🗄️ Pilot DB | Sistema de gestión con MySQL · callsign · rango · escuadrón (migrado desde SQLite3) | 🟡 En desarrollo |
-| 📡 Panel web | Dashboard de administración con embeds Bootstrap (tema oscuro/rojo) y preview | 🟡 En construcción |
  
 🌍 **Web:** [banditsesp.com](https://banditsesp.com/) &nbsp;|&nbsp; 💻 **GitHub:** [@BanditsEsp](https://github.com/BanditsEsp)
  
