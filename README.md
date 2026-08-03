@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jorge%20Ruiz&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Systems%20Builder%20%7C%20Squadron%20Leader&descAlignY=58&descSize=16" width="100%"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF4444&center=true&vCenter=true&width=700&lines=DAW+Student+%40+Ilerna+Madrid;Full+Stack+Developer+in+progress;Discord+Bot+%26+Systems+Architect;DCS+Squadron+Leader+%E2%80%94+Bandits+ESP;Developer+%40+Ibercenter;Building+real+things%2C+one+commit+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF4444&vCenter=true&width=700&lines=DAW+Student+%40+Ilerna+Madrid;Full+Stack+Developer+in+progress;Discord+Bot+%26+Systems+Architect;DCS+Squadron+Leader+%E2%80%94+Bandits+ESP;Developer+%40+Ibercenter;Building+real+things%2C+one+commit+at+a+time)](https://git.io/typing-svg)
  
 </div>
 ---
@@ -9,9 +9,11 @@
  
 ```yaml
 nombre:        Jorge Ruiz
+alias:         JRK11177YT
 ubicación:     Madrid, España 🇪🇸
 estudios:      Desarrollo de Aplicaciones Web (DAW) — Ilerna Madrid
 objetivo:      Full Stack Developer · Systems Builder · SysAdmin
+estado:        Construyendo proyectos reales en producción 🚀
 ```
  
 Soy desarrollador web en formación con un enfoque claro: construir sistemas completos, funcionales y con impacto real. Trabajo tanto en el backend como en el frontend, con especial interés en automatización, administración de sistemas y desarrollo de plataformas complejas.
@@ -81,7 +83,7 @@ Soy desarrollador web en formación con un enfoque claro: construir sistemas com
 <div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=JRK11177YT&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF4444&icon_color=FF4444&text_color=c9d1d9"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRK11177YT&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF4444&text_color=c9d1d9"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JRK11177YT&theme=github-dark-blue&hide_border=true&background=0d1117&ring=FF4444&fire=FF4444&currStreakLabel=FF4444" width="500"/>
+<img src="https://streak-stats.demolab.com/?user=JRK11177YT&theme=github-dark-blue&hide_border=true&background=0d1117&ring=FF4444&fire=FF4444&currStreakLabel=FF4444" width="500"/>
 </div>
 ---
  
