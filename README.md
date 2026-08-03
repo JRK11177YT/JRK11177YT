@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jorge%20Ruiz&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Systems%20Builder%20%7C%20Squadron%20Leader&descAlignY=58&descSize=16" width="100%"/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF4444&vCenter=true&width=700&lines=DAW+Student+%40+Ilerna+Madrid;Full+Stack+Developer+in+progress;Discord+Bot+%26+Systems+Architect;DCS+Squadron+Leader+%E2%80%94+Bandits+ESP;Developer+%40+Ibercenter;Building+real+things%2C+one+commit+at+a+time)](https://git.io/typing-svg)
- 
-</div>
----
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jorge%20Ruiz&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Systems%20Builder%20%7C%20Squadron%20Leader&descAlignY=58&descSize=16" width="100%"/>
  
 ## 👤 Sobre mí
  
@@ -78,15 +73,6 @@ Soy desarrollador web en formación con un enfoque claro: construir sistemas com
  
 ---
  
-## 📊 Estadísticas
- 
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JRK11177YT&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF4444&icon_color=FF4444&text_color=c9d1d9"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRK11177YT&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF4444&text_color=c9d1d9"/>
-<img src="https://streak-stats.demolab.com/?user=JRK11177YT&theme=github-dark-blue&hide_border=true&background=0d1117&ring=FF4444&fire=FF4444&currStreakLabel=FF4444" width="500"/>
-</div>
----
- 
 ## 🎯 Objetivos 2025–2026
  
 - [ ] 🚀 Lanzar la plataforma completa de Bandits ESP en producción
@@ -97,18 +83,4 @@ Soy desarrollador web en formación con un enfoque claro: construir sistemas com
 - [ ] 🎓 Terminar el ciclo de DAW con proyectos en producción real
 ---
  
-## 📬 Contacto
- 
-<div align="center">
-[![Website](https://img.shields.io/badge/banditsesp.com-FF4444?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://banditsesp.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JRK11177YT)
-[![GitHub Org](https://img.shields.io/badge/BanditsEsp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BanditsEsp)
- 
-</div>
----
- 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-![Profile views](https://komarev.com/ghpvc/?username=JRK11177YT&color=red&style=for-the-badge)
- 
-</div>
+## 📬 Contacto <div align="center"> [![Website](https://img.shields.io/badge/banditsesp.com-FF4444?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://banditsesp.com/)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JRK11177YT)[![GitHub Org](https://img.shields.io/badge/BanditsEsp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BanditsEsp) </div> --- <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/> ![Profile views](https://komarev.com/ghpvc/?username=JRK11177YT&color=red&style=for-the-badge) </div>
